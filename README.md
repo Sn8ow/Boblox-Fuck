@@ -18,3 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Sn8ow/Boblox-Fuck/mai
 --Made By: Sir Meme--
 loadstring(game:HttpGet"https://pastebinp.com/raw/VekKpUuz")()
 ```
+### Roblox - One Scope Sniping Cheat
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sn8ow/Boblox-Fuck/main/scripts/One%20Scope%20Sniping%20Cheat.lua", true))()
+```
