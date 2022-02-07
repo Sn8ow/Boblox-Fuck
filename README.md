@@ -13,7 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Sn8ow/Boblox-Fuck/mai
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Sn8ow/Boblox-Fuck/main/scripts/FE%20Helicopter.lua", true))()
 ```
-### Roblox - FPS Booster 2021
+### Roblox - FPS Booster 2021 (By: Sir Meme)
 ```lua
 --Made By: Sir Meme--
 loadstring(game:HttpGet"https://pastebinp.com/raw/VekKpUuz")()
